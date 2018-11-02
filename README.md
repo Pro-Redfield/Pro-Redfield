@@ -37,13 +37,14 @@ Descriçãp:
 
 ## Lista de funcionalidades para utilizar nos sistemas
 Recursos para utilizar afim de explorar os recursos das tecnologias utilizadas.
+
 -Inilizar nos formularios todos os tipos primitivos.
 -Usar tabelas com relacionamentos.
--
--
--
--
--
+-momo
+-momo
+-momo
+-momo
+-momo
 
 
 ## Lista de tecnologias para utilizar nos sistemas
