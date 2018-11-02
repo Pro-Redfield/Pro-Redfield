@@ -12,14 +12,35 @@ Orientação de fluxo de trabalho e documentação de novas propostas em recurso
   Uma carta informal com as palavras do cliente que representa uma emprese, contendo as exigencias que o sistema precisa ter para atender sua necessidade. 
 
 ### 2- Analise de requiso. Opcional
+Definir que sera feito
+Definir Nome para preencher o Artifact
 
-### 3- Definoção do banco de dedos
+
+### 3- Definição do banco de dados
+faser banco de dados
 
 ### 3- Implementação do código
 
 ### 4- Teste
 
 ### 5- implantação
+
+
+
+## Lista de sistemas para elaboração de propostas
+Esses são os modelos de sistemas para a equipe desenvolver e aprimorar suas habilidades, os sistemas listados aqui dever conter o uso de um novo recurso ou propor um novo desafio para a equipe, para que as propostas não tenha muitas atividade repetitivas, salvo se esta seja vital para o restante do sistema.
+
+### Sistema de Gerenciamento Hospitalar
+Descrição:
+
+### Sitema de vendas
+Descriçãp:
+
+## Sistema: 
+Descriçãp:
+
+
+
 
 
 ## -
@@ -53,34 +74,18 @@ Angular
 ### Gestao
 Scrum
 Kanban
+Astah
 
 
 ## -
 ### Lista de funcionalidades para utilizar nos sistemas
 Recursos para utilizar afim de explorar os recursos das tecnologias utilizadas.
 
--Inilizar nos formularios todos os tipos primitivos.
+-Itilizar nos formularios todos os tipos primitivos.
 -Usar tabelas com relacionamentos.
--Um
+-Usaa
 -momo
 -momo
 -momo
 -momo
-
-
-## Lista de sistemas para elaboração de propostas
-Esses são os modelos de sistemas para a equipe desenvolver e aprimorar suas habilidades, os sistemas listados aqui dever conter o uso de um novo recurso ou propor um novo desafio para a equipe, para que as propostas não tenha muitas atividade repetitivas, salvo se esta seja vital para o restante do sistema.
-
-### Sistema de Gerenciamento Hospitalar
-Descrição:
-
-### Sitema de vendas
-Descriçãp:
-
-## Sistema: 
-Descriçãp:
-
-
-
-
 
