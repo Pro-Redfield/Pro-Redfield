@@ -1,6 +1,6 @@
 # Pro-Redfield - Coordenação Geral
 
-Contribua para edição deste documento
+Contribua para edição deste documento, para a edição deste não e obrigatorio preencher o commit.
 
 Orientação de fluxo de trabalho e documentação de novas propostas em recursos e ferramentas.
 
