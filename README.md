@@ -13,8 +13,34 @@ Orientação de fluxo de trabalho e documentação de novas propostas em recurso
 
 ### 3- Definoção do banco de dedos
 
-### 3- Implementação do codigo
+### 3- Implementação do código
 
 ### 4- Teste
 
 ### 5- implantação
+
+
+## Lista dos Recursos
+Lista de recursos qeu dever ser usados para nossa evolução profisional.
+Esse recursos dever ser incluidos nos projetos conforma a necessidade, não sendo necessario usar todos em um só projeto.
+
+### Banco
+JDBC
+JPA
+Hibernate
+
+### ---
+Servlet
+Spring
+JSF
+
+### ---
+HTML
+Javascript
+CSS
+
+### ---
+JQuery
+BootStrap
+Angular
+
